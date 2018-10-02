@@ -1,6 +1,11 @@
 # favicon-demo
 
+<img align="right" width="120" height="120"
+     src="./demo-qr-code-url.png" alt="Demo URL qr-code">
+
 > Which of favicons on your screen?
+
+Demo: [inside-demo.github.io/favicon-demo](https://inside-demo.github.io/favicon-demo/)
 
 ## Icons
 
